@@ -5,30 +5,24 @@
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hectorcoello/hectorcoello.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+<h2 style="box-sizing: border-box; margin: 0px 0px 0.5em; padding: 0px; font-size: 24px; font-weight: 400; color: #222222; font-family: effrabold, effra, Verdana, Arial, sans-serif; font-style: normal; line-height: 1.2; text-rendering: optimizeLegibility; text-transform: uppercase; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;">BENEFITS &amp; FEATURES</h2>
+<div class="std" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #222222; font-family: effra, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;">
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px;">SKINS K-PROPRIUM Long Tights are serious tights for serious athletes. We&rsquo;ve combined our premium compression tech with built-in Proprioceptive Power Bands to boost your body&rsquo;s natural proprioception and power up your performance like never before.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: bold;">Benefits Include</strong></p>
+<ol style="box-sizing: border-box; margin: 0px 0px 1.5em; padding: 0px; list-style: decimal outside;">
+<li style="box-sizing: border-box; margin: 0px 0px 0px 2em; padding: 0px;">Biomechanically placed Proprioceptive Power Bands (PPB's) improve proprioception and joint stability to reduce fatigue and the risk of injury&nbsp;</li>
+<li style="box-sizing: border-box; margin: 0px 0px 0px 2em; padding: 0px;">Dynamic Gradient Compression ensures compression levels are optimised for activity, providing increased support and driving more oxygen to your muscles for better performance</li>
+<li style="box-sizing: border-box; margin: 0px 0px 0px 2em; padding: 0px;">The ergonomically shaped waistband supports and stabilises the lower abdominals and lumbar spine&nbsp;</li>
+<li style="box-sizing: border-box; margin: 0px 0px 0px 2em; padding: 0px;">ADAPTIVE Technology keeps you feeling warm when it&rsquo;s cold and cool and dry when it&rsquo;s hot&nbsp;</li>
+<li style="box-sizing: border-box; margin: 0px 0px 0px 2em; padding: 0px;">A-Seams sit flat against your body for ultimate comfort and durability without chafing</li>
+<li style="box-sizing: border-box; margin: 0px 0px 0px 2em; padding: 0px;">Reflective SKINS logos for 360-degree visibility in low light conditions&nbsp;</li>
+<li style="box-sizing: border-box; margin: 0px 0px 0px 2em; padding: 0px;">Bonded hems that won't dig into your ankles&nbsp;</li>
+<li style="box-sizing: border-box; margin: 0px 0px 0px 2em; padding: 0px;">Shaped crotch for comfort</li>
+</ol>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px;">Wear SKINS K-PROPRIUM Long Tights for endurance training, team and power-based sports to fight fatigue and take your performance to new heights.&nbsp;</p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: bold;">Fiber Content</strong></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px;">Main: 76% Polyamide, 24% Elastane&nbsp;<br style="box-sizing: border-box; margin: 0px; padding: 0px;" />PPB's: 42% Polyamide, 58% Elastane, exclusive of trims</p>
+</div>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -46,7 +40,7 @@ Syntax highlighted code block
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-[Link](url) and ![http://therxreview.com/wp-content/uploads/2017/01/skins-k-proprium-compression-tights-1024x927.jpg](src)
+<img src="http://therxreview.com/wp-content/uploads/2017/01/skins-k-proprium-compression-tights-1024x927.jpg"> 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
