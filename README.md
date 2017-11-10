@@ -1,3 +1,10 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>index-2</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hectorcoello/hectorcoello.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -22,13 +29,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-<html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>index-2</title>
-<link href="style.css" rel="stylesheet" type="text/css">
-</head>
-<body>
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
@@ -44,8 +45,6 @@ Syntax highlighted code block
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-</body>
-</html>
 
 [Link](url) and ![http://therxreview.com/wp-content/uploads/2017/01/skins-k-proprium-compression-tights-1024x927.jpg](src)
 ```
@@ -59,3 +58,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+</body>
+</html>
