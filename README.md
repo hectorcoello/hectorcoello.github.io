@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](http://therxreview.com/wp-content/uploads/2017/01/skins-k-proprium-compression-tights-1024x927.jpg)
+[Link](url) and ![http://therxreview.com/wp-content/uploads/2017/01/skins-k-proprium-compression-tights-1024x927.jpg](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
